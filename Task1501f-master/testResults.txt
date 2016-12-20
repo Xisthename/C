@@ -1,0 +1,13 @@
+../test/test_stateMachine.c:25:test_stateMachineStartsInLockedState:FAIL: Expected TRUE Was FALSE
+../test/test_stateMachine.c:32:test_stateGoesToPushOneWhenFirstCorrectButtonIsPressed:FAIL: Expected TRUE Was FALSE
+../test/test_stateMachine.c:22:test_stateGoesToLockedWhenFirstIncorrectButtonIsPressed:PASS
+../test/test_stateMachine.c:50:test_stateGoesToPushTwoWhenSecondCorrectButtonIsPressed:FAIL: Expected TRUE Was FALSE
+../test/test_stateMachine.c:59:test_stateGoesToLockedWhenSecondIncorrectButtonIsPressed:FAIL: Expected TRUE Was FALSE
+../test/test_stateMachine.c:68:test_stateGoesToPushThreeWhenThirdCorrectButtonIsPressed:FAIL: Expected TRUE Was FALSE
+../test/test_stateMachine.c:77:test_stateGoesToLockedWhenThirdIncorrectButtonIsPressed:FAIL: Expected TRUE Was FALSE
+../test/test_stateMachine.c:86:test_stateGoesToOpenWhenFourthCorrectButtonIsPressed:FAIL: Expected TRUE Was FALSE
+../test/test_stateMachine.c:95:test_stateGoesToLockedWhenFourthIncorrectButtonIsPressed:FAIL: Expected TRUE Was FALSE
+
+-----------------------
+9 Tests 8 Failures 0 Ignored 
+FAIL

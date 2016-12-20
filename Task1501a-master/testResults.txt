@@ -1,0 +1,7 @@
+Console ready
+=============
+../test/testDigitalIO.c:52:test_digitalDuePin13InitialiseProperly:FAIL: Expected XXXX1XXXXXXXXXXXXXXXXXXXXXXXXXXX Was XXXX0XXXXXXXXXXXXXXXXXXXXXXXXXXX. PB27 is not initialised
+
+-----------------------
+1 Tests 1 Failures 0 Ignored 
+FAIL
